@@ -6,6 +6,7 @@ Here are a few info:
 
  In Natural Language Processing:
 - [Transformer Utilization](https://github.com/Ajax0564/TransformerNLP/blob/main/utilizing-transformer-representations-efficiently.ipynb)
+- [Roberta Base Implementation](https://github.com/Ajax0564/TransformerNLP/blob/main/roberta-base-from-scratch-pytorch.ipynb)
 - [Masked language modeling with DebertaV3](https://github.com/Ajax0564/TransformerNLP/blob/main/debertav3-mlm.ipynb)
 - [Training any NLP Transformer with Native Pytorch](https://github.com/Ajax0564/TransformerNLP/blob/main/transformer-pytorch-native.ipynb)
 - [Roberta distilation](https://github.com/Ajax0564/TransformerNLP/blob/main/transformer-distilation-pre.ipynb)
