@@ -15,7 +15,8 @@ Here are a few info:
 - [Knowledge distilation from large language model](https://github.com/Ajax0564/TransformerNLP/blob/main/transformer-pytorch-native-knowledge-distillation.ipynb)
 
 ## Decoder Only
-
+-[GPT-2 Finetunning for text genration](https://github.com/Ajax0564/TransformerNLP/blob/main/gpt2-text-generation.ipynb)
+-[GPT-2 implementation from scratch for text genration](https://github.com/Ajax0564/TransformerNLP/blob/main/gpt2-scratch-implementation.ipynb)
 
 ## Encoder Decoder
 - [Roberta Distilation Seq2Seq Summarization](https://github.com/Ajax0564/TransformerNLP/blob/main/robert6l-seq2seq.ipynb)
