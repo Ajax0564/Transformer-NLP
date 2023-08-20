@@ -10,7 +10,6 @@ Here are a few info:
 - [Roberta Base Implementation](https://github.com/Ajax0564/TransformerNLP/blob/main/roberta-base-from-scratch-pytorch.ipynb)
 - [Masked language modeling with DebertaV3](https://github.com/Ajax0564/TransformerNLP/blob/main/debertav3-mlm.ipynb)
 - [Training any NLP Transformer with Native Pytorch](https://github.com/Ajax0564/TransformerNLP/blob/main/transformer-pytorch-native.ipynb)
-- [Roberta distilation](https://github.com/Ajax0564/TransformerNLP/blob/main/transformer-distilation-pre.ipynb)
 - [Roberta Distilation classification](https://github.com/Ajax0564/TransformerNLP/blob/main/roberta-base-6L-distill-pytorch.ipynb)
 - [Knowledge distilation from large language model](https://github.com/Ajax0564/TransformerNLP/blob/main/transformer-pytorch-native-knowledge-distillation.ipynb)
 
@@ -21,6 +20,13 @@ Here are a few info:
 ## Encoder Decoder
 - [Roberta Distilation Seq2Seq Summarization](https://github.com/Ajax0564/TransformerNLP/blob/main/robert6l-seq2seq.ipynb)
 - [Seq2Seq Translation](https://github.com/Ajax0564/TransformerNLP/blob/main/seq2seq-transformer-translation-final.ipynb)
+
+## Knowledge Distillation
+- [Roberta distilation](https://github.com/Ajax0564/TransformerNLP/blob/main/transformer-distilation-pre.ipynb)
+- [Roberta Distilation classification](https://github.com/Ajax0564/TransformerNLP/blob/main/roberta-base-6L-distill-pytorch.ipynb)
+- [Knowledge distilation from large language model](https://github.com/Ajax0564/TransformerNLP/blob/main/transformer-pytorch-native-knowledge-distillation.ipynb)
+- [ ] Initializing a model with different embedding size and layer from large model through Teacher-Student pretraining
+
 ## Model architectures
 
 1. **[RoBERTa](https://arxiv.org/abs/1907.11692)** (from Facebook)
