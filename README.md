@@ -20,7 +20,7 @@ Here are a few info:
 
 ## Encoder Decoder
 - [Roberta Distilation Seq2Seq Summarization](https://github.com/Ajax0564/TransformerNLP/blob/main/robert6l-seq2seq.ipynb)
-- 
+- [Seq2Seq Translation](https://github.com/Ajax0564/TransformerNLP/blob/main/seq2seq-transformer-translation-final.ipynb)
 ## Model architectures
 
 1. **[RoBERTa](https://arxiv.org/abs/1907.11692)** (from Facebook)
